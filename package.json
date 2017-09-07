@@ -16,5 +16,7 @@
     "url": "https://github.com/bntzio/node-weather/issues"
   },
   "homepage": "https://github.com/bntzio/node-weather#readme",
-  "dependencies": {}
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
