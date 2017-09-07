@@ -1,0 +1,20 @@
+{
+  "name": "node-weather",
+  "version": "0.1.0",
+  "description": "Node.js weather cli app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bntzio/node-weather.git"
+  },
+  "author": "Enrique Benitez <hello@bntz.io> (https://bntz.io)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/bntzio/node-weather/issues"
+  },
+  "homepage": "https://github.com/bntzio/node-weather#readme",
+  "dependencies": {}
+}

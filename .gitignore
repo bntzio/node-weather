@@ -1,0 +1,12 @@
+# node modules
+node_modules/
+
+# vim temp files
+*.swp
+*.swo
+
+# error logs
+*.log
+
+# other
+.DS_Store
